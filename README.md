@@ -23,7 +23,10 @@ This .Net Core console app is written in TDD approach which reverses a input tex
 
 ## Helpers:
 
-Please add [these](https://github.com/banerjeea/ReverseFile/tree/master/HelperTextFiles) files to ```c:\temp``` to run the program. Due to time constraints, the program doesn't take file paths through user inputs.
+Please add [these](https://github.com/banerjeea/ReverseFile/tree/master/HelperTextFiles) files to ```c:\temp``` to run the program. Due to time constraints, the program doesn't take file paths through user inputs. Also assumes you are running the app on a windows box.
+
+## What I Googled:
+```File.ReadAllLines(path)``` to find the easiest way to read each line of a file and store them in string array.
 
 # 4. System Design
 
