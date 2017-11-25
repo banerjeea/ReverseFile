@@ -1,0 +1,16 @@
+C:\ReverseFile\FileReverser\Test.ReverseFile\obj\Debug\netcoreapp2.0\Test.ReverseFile.csprojResolveAssemblyReference.cache
+C:\ReverseFile\FileReverser\Test.ReverseFile\obj\Debug\netcoreapp2.0\Test.ReverseFile.csproj.CoreCompileInputs.cache
+C:\ReverseFile\FileReverser\Test.ReverseFile\obj\Debug\netcoreapp2.0\Test.ReverseFile.AssemblyInfoInputs.cache
+C:\ReverseFile\FileReverser\Test.ReverseFile\obj\Debug\netcoreapp2.0\Test.ReverseFile.AssemblyInfo.cs
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\Test.ReverseFile.deps.json
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\Test.ReverseFile.runtimeconfig.json
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\Test.ReverseFile.runtimeconfig.dev.json
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\Test.ReverseFile.dll
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\Test.ReverseFile.pdb
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\ReverseFile.dll
+C:\ReverseFile\FileReverser\Test.ReverseFile\bin\Debug\netcoreapp2.0\ReverseFile.pdb
+C:\ReverseFile\FileReverser\Test.ReverseFile\obj\Debug\netcoreapp2.0\Test.ReverseFile.dll
+C:\ReverseFile\FileReverser\Test.ReverseFile\obj\Debug\netcoreapp2.0\Test.ReverseFile.pdb

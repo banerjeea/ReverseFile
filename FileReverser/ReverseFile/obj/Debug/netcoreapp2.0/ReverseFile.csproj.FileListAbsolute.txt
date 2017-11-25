@@ -1,0 +1,11 @@
+C:\ReverseFile\FileReverser\ReverseFile\bin\Debug\netcoreapp2.0\ReverseFile.deps.json
+C:\ReverseFile\FileReverser\ReverseFile\bin\Debug\netcoreapp2.0\ReverseFile.runtimeconfig.json
+C:\ReverseFile\FileReverser\ReverseFile\bin\Debug\netcoreapp2.0\ReverseFile.runtimeconfig.dev.json
+C:\ReverseFile\FileReverser\ReverseFile\bin\Debug\netcoreapp2.0\ReverseFile.dll
+C:\ReverseFile\FileReverser\ReverseFile\bin\Debug\netcoreapp2.0\ReverseFile.pdb
+C:\ReverseFile\FileReverser\ReverseFile\obj\Debug\netcoreapp2.0\ReverseFile.csproj.CoreCompileInputs.cache
+C:\ReverseFile\FileReverser\ReverseFile\obj\Debug\netcoreapp2.0\ReverseFile.AssemblyInfoInputs.cache
+C:\ReverseFile\FileReverser\ReverseFile\obj\Debug\netcoreapp2.0\ReverseFile.AssemblyInfo.cs
+C:\ReverseFile\FileReverser\ReverseFile\obj\Debug\netcoreapp2.0\ReverseFile.dll
+C:\ReverseFile\FileReverser\ReverseFile\obj\Debug\netcoreapp2.0\ReverseFile.pdb
+C:\ReverseFile\FileReverser\ReverseFile\obj\Debug\netcoreapp2.0\ReverseFile.csprojResolveAssemblyReference.cache
