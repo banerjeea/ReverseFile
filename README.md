@@ -1,7 +1,7 @@
 # 3. Test Driven Development
 # 3.1 ReverseFile
 
-This .Net Core console app is written in TDD approach which reverses a input text file. 
+This .Net Core console app is written in TDD approach which reverses a input text file. Program.cs treated outside TDD.
 
 ## Example:
 
